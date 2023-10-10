@@ -1,5 +1,5 @@
 <div style="color:white;">
-     <img src="https://github.com/radiant-fleak/animshamura/blob/main/Banner.jpg" width="400">
+     <img src="https://github.com/radiant-fleak/animshamura/blob/main/Banner.jpg" width="1600" height="600">
 <h2> About Me :</h2>
 <h4> ☐ I'm Shamura, a DevOps Engineer and a passionate programmer. <br/>  <br/>
      ☐ Having extreme enthusiasm about mathematics and problem solving. <br/>  <br/>
