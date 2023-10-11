@@ -50,7 +50,7 @@
 - <a href="https://github.com/radiant-fleak/NFS-Server-RedHat-Linux">NFS Server</a><br/>
 - <a href="https://github.com/radiant-fleak/Zimbra-Mail-Server-RedHat-Linux">Zimbra Mail Server</a><br/>
 - <a href="https://github.com/radiant-fleak/FTP-Server-RedHat-Linux-">FTP Server</a><br/>
-- <a href="https://github.com/radiant-fleak/Samba-Server-RedHat-Linux">DNS Server</a><br/>
+- <a href="https://github.com/radiant-fleak/Samba-Server-RedHat-Linux">Samba Server</a><br/>
 
 <h4>Windows Server 2016 : </h4>
 - <a href="https://github.com/radiant-fleak/Windows-Server">DNS & DHCP Server</a><br/>
