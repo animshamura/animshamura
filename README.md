@@ -56,7 +56,7 @@
 - <a href="https://github.com/radiant-fleak/Windows-Server">DNS & DHCP Server</a><br/>
 - <a href="https://github.com/radiant-fleak/IIS-Server-Windows-Server-2016">IIS Server</a><br/>
 - <a href="https://github.com/radiant-fleak/FTP-Server-Windows-Server-2016">FTP Server</a><br/>
-- <a href="https://github.com/radiant-fleak/iSCSI-Server-Windows-Server-2016">iSCSI Server</a><br/>
+- <a href="https://github.com/radiant-fleak/iSCSI-Target-Server-Windows-Server-2016">iSCSI Server</a><br/>
 - <a href="https://github.com/radiant-fleak/IPAM-Server-Windows-Server-2016">IPAM Server</a><br/>
                                                             
 <h3>Cloud Computing & DevOps Based Repositories : </h3> 
