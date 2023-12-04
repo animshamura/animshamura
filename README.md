@@ -10,7 +10,7 @@
      ☐ Artificial Intelligence - Bangladesh Computer Council <br/> <br/>
      ☐ Server Administration - Bangladesh Association of Software and Information Services (BASIS) <br/> <br/>
      ☐ Python Programming - CodeInPlace, Stanford University  <br/> <br/>
-     ☐ Quantum Computing - Google AI, Qubit By Qubit, The Coding School (On Going) 
+     ☐ Artificial Intelligence - Havard University   <br/> <br/>
 </h4> 
 <h2>Contents :</h2>
 <h3> Competitive Programming :</h3> 
