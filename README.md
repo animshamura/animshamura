@@ -1,8 +1,9 @@
 <div style="color:white;">
      <img src="https://github.com/radiant-fleak/animshamura/blob/main/Banner.jpg" width="1000" height="400">
 <h2> About Me :</h2>
-<h4> ☐ I'm Shamura, a DevOps Engineer and a passionate programmer. <br/>  <br/>
-     ☐ Having extreme enthusiasm about mathematics and problem solving. <br/>  <br/>
+<h4> ☐ I'm Shamura, a DevOps Engineer and a Python Programming Trainer.<br/>  <br/>
+     ☐ I've been extremely into mathematics and competitive programming. <br/>  <br/>
+     ☐ I am an AI Enthusiast and trying to learn deeply about AI.<br/>  <br/>
      ☐ I am a friendly, hardworking and an aspiring person.<br/>  <br/>
      ☐ I improvise myself into learning new technologies and adapting a new environment.</h4>
 <h2>Recently Learnt Technologies :</h2>
@@ -10,7 +11,8 @@
      ☐ Artificial Intelligence - Bangladesh Computer Council <br/> <br/>
      ☐ Server Administration - Bangladesh Association of Software and Information Services (BASIS) <br/> <br/>
      ☐ Python Programming - CodeInPlace, Stanford University  <br/> <br/>
-     ☐ Advanced Artificial Intelligence - edX, Havard University (On Going)  <br/>
+     ☐ Advanced Machine Learning - Coursera, IBM Training <br/>
+     ☐ Advanced Artificial Intelligence - edX, Havard University<br/>
 </h4> 
 <h2>Contents :</h2>
 <h3> Competitive Programming :</h3> 
