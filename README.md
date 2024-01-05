@@ -4,8 +4,8 @@
 <h4> ☐ I'm Shamura, a DevOps Engineer and a Python Programming Trainer.<br/>  <br/>
      ☐ I've been extremely into mathematics and competitive programming. <br/>  <br/>
      ☐ I am an AI Enthusiast and trying to learn deeply about AI.<br/>  <br/>
-     ☐ I am a friendly, hardworking and an aspiring person.<br/>  <br/>
-     ☐ I improvise myself into learning new technologies and adapting a new environment.</h4>
+     ☐ I'm a friendly, hardworking and an aspiring person.<br/>  <br/>
+     ☐ I'm improvised to learn new technologies and adapt any environment.</h4>
 <h2>Recently Learnt Technologies :</h2>
 <h4> ☐ Cloud Computing & DevOps Methodology - Bangladesh Computer Council <br/> <br/>
      ☐ Artificial Intelligence - Bangladesh Computer Council <br/> <br/>
