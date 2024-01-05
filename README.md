@@ -11,7 +11,7 @@
      ☐ Artificial Intelligence - Bangladesh Computer Council <br/> <br/>
      ☐ Server Administration - Bangladesh Association of Software and Information Services (BASIS) <br/> <br/>
      ☐ Python Programming - CodeInPlace, Stanford University  <br/> <br/>
-     ☐ Advanced Machine Learning - Coursera, IBM Training <br/>
+     ☐ Advanced Machine Learning - Coursera, IBM Training <br/> <br/>
      ☐ Advanced Artificial Intelligence - edX, Havard University<br/>
 </h4> 
 <h2>Contents :</h2>
