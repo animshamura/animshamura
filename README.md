@@ -22,7 +22,6 @@
 - <a href="https://github.com/radiant-fleak/Game-Theory">Game Theory</a><br/>
 - <a href="https://github.com/radiant-fleak/Back-Beans-Tracker-">Back Beans Tracker</a><br/>
 - <a href="https://github.com/radiant-fleak/Sorted-Nimbus">Sorted Nimbus</a><br/>                                                                      
-
 <h3 align="left">Problem Solving :</h3>
 <h4 align="left">Online Judges :</h4>
 - <a href="https://github.com/animshamura/UVA-Solve">UVA</a><br>
@@ -41,10 +40,10 @@
 - <a href="https://github.com/radiant-fleak/SRBD-Contest-2023">Samsung R&D Contest 2023</a> <br/>
 - <a href="https://github.com/animshamura/ICPC-Solve-">ICPC</a><br>
 - <a href="https://github.com/animshamura/Contest-Problems-Solve-">Mixed</a><br>
-<h3> Data Science, Machine Learning & Natural Language Processing Based Repositories :</h3>
+<h3> Data Science, Machine Learning & Natural Language Processing :</h3>
 - <a href="https://github.com/animshamura/Fake-News-Detection-">Fake News Detection</a><br/>
 - <a href="https://github.com/animshamura/Sentiment-Analysis">Sentiment Analysis</a><br/>
-<h3> Server Administration Based Repositories :</h3>
+<h3> Server Administration :</h3>
 <h4>RedHat Linux Server : </h4>
 - <a href="https://github.com/radiant-fleak/DNS-Server-RedHat-Linux-">DNS Server</a><br/>
 - <a href="https://github.com/radiant-fleak/DHCP-Server-RedHat-Linux">DHCP Server</a><br/>
@@ -61,7 +60,7 @@
 - <a href="https://github.com/radiant-fleak/iSCSI-Target-Server-Windows-Server-2016">iSCSI Server</a><br/>
 - <a href="https://github.com/radiant-fleak/IPAM-Server-Windows-Server-2016">IPAM Server</a><br/>
                                                             
-<h3>Cloud Computing & DevOps Based Repositories : </h3> 
+<h3>Cloud Computing & DevOps : </h3> 
 - <a href="https://github.com/radiant-fleak/AWS-Cloud-Services"> AWS Cloud</a> <br/>
 - <a href="https://github.com/radiant-fleak/Google-Cloud-Services">Google Cloud</a> <br/> 
 - <a href="https://github.com/radiant-fleak/MS-Azure-Cloud-Services">Azure Cloud</a><br/> 
@@ -69,7 +68,7 @@
 - <a href="https://github.com/radiant-fleak/Kubernetes">Kubernetes</a> <br/> 
 
 
-<h3 align="left">.NET Framework Based Repositories :</h3>
+<h3 align="left">.NET Framework :</h3>
 - <a href="https://github.com/animshamura/Your-Cab">Your Cab</a><br>
 - <a href="https://github.com/animshamura/Consultor-">Consultor</a><br>
 - <a href="https://github.com/animshamura/AppScope">AppScope</a><br>
@@ -84,7 +83,7 @@
 - <a href="https://github.com/radiant-fleak/DataFetch-App">DataFetch App</a><br>
 - <a href="https://github.com/radiant-fleak/CRUD-App">CRUD-App</a><br>
 
-<h3 align="left">HTML, CSS & JavaScript Based Repositories :</h3>
+<h3 align="left">HTML, CSS & JavaScript :</h3>
 - <a href="https://github.com/animshamura/Tyme-">Tyme</a><br>
 - <a href="https://github.com/animshamura/Amazone-Clone-">Amazone Clone</a><br>
 - <a href="https://github.com/animshamura/BookIn">BookIn</a><br>
@@ -95,7 +94,7 @@
 - <a href="https://github.com/animshamura/Portrayal">Portrayal</a><br>
 
 
-<h3 align="left">React Based Repositories :</h3>
+<h3 align="left">React :</h3>
 - <a href="https://github.com/animshamura/wRapitup-">wRapitup</a><br>
 - <a href="https://github.com/animshamura/Chandler-">Chandler</a><br>
 - <a href="https://github.com/animshamura/Breet">Breet</a><br>
@@ -119,12 +118,12 @@
 - <a href="https://github.com/radiant-fleak/View-App">View-App</a><br>
 - <a href="https://github.com/radiant-fleak/React-In-Silence-">React In Silence</a><br>
 
-<h3 align="left">Spring Boot Based Repositories :</h3>
+<h3 align="left">Spring Boot :</h3>
 - <a href="https://github.com/animshamura/Timehammer">Timehammer</a><br>
 - <a href="https://github.com/animshamura/Bladefex-">Bladefex</a><br>
 - <a href="https://github.com/animshamura/Blood-Point">Blood Point</a><br>
 - <a href="https://github.com/animshamura/PayFast-">PayFast</a><br/> 
-<h3 align="left">Java Based Based Repositories :</h3>
+<h3 align="left">Core Java :</h3>
 - <a href="https://github.com/animshamura/Panel-Of-Clash-">Panel of Clash</a><br>
 - <a href="https://github.com/animshamura/Riddles-Dish">Riddles Dish</a><br>
 - <a href="https://github.com/animshamura/Encogit">Encogit</a><br>
@@ -133,16 +132,14 @@
 - <a href="https://github.com/animshamura/A-Node-to-Reach-">A Node to Reach</a><br>
 - <a href="https://github.com/animshamura/One-Single-Destination">One Single Destination</a><br>
 - <a href="https://github.com/animshamura/The-Next-MST">The Next MST</a><br/>
-</div>
 
-
-<h3 align="left">C++/C Based Repositories :</h3>
+<h3 align="left">Core C++/C :</h3>
 - <a href="https://github.com/animshamura/ParkinIt">ParkinIt</a><br>
 - <a href="https://github.com/animshamura/SmaCkon">SmaCkon</a><br>
 - <a href="https://github.com/animshamura/Wait-In-Room">Wait In Room</a><br>
 - <a href="https://github.com/animshamura/Tower-Of-Hanoy">Tower of Hanoy</a><br>
 
-<h3 align="left">Python Based Repositories:</h3>
+<h3 align="left">Core Python :</h3>
 - <a href="https://github.com/animshamura/Saikou">Saikou</a><br>
 - <a href="https://github.com/animshamura/Mr-Toodo">Mr Toodo</a><br>
 - <a href="https://github.com/animshamura/Endo">Endo</a><br>
