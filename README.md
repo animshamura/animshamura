@@ -5,7 +5,7 @@
      ☐ I've been extremely into mathematics and competitive programming. <br/>  <br/>
      ☐ I'm an AI Enthusiast and trying to learn deeply about the AI executions.<br/>  <br/>
      ☐ I'm improvised to learn new technologies and adapt any environment.<br/> <br/>
-     ☐ I'm an Aurora (Northern Lights) lover, a travel freak and sports junkie. 
+     ☐ I'm an Aurora (Northern Lights) lover, a travel freak and a sports junkie. 
 </h4>
 <h2>Recently Learnt Technologies :</h2>
 <h4> ☐ Cloud Computing & DevOps - Bangladesh Computer Council <br/> <br/>
