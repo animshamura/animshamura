@@ -41,7 +41,9 @@
 - <a href="https://github.com/radiant-fleak/SRBD-Contest-2023">Samsung R&D Contest 2023</a> <br/>
 - <a href="https://github.com/animshamura/ICPC-Solve-">ICPC</a><br>
 - <a href="https://github.com/animshamura/Contest-Problems-Solve-">Mixed</a><br>
-
+<h3> Data Science, Machine Learning & Natural Language Processing Based Repositories :</h3>
+- <a href="https://github.com/animshamura/Fake-News-Detection-">Fake News Detection</a><br/>
+- <a href="https://github.com/animshamura/Sentiment-Analysis">Sentiment Analysis</a><br/>
 <h3> Server Administration Based Repositories :</h3>
 <h4>RedHat Linux Server : </h4>
 - <a href="https://github.com/radiant-fleak/DNS-Server-RedHat-Linux-">DNS Server</a><br/>
