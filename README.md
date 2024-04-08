@@ -1,7 +1,8 @@
 <div style="color:white;">
      <img src="https://github.com/radiant-fleak/animshamura/blob/main/Banner.jpg" width="1000" height="400">
 <h2> About Me :</h2>
-<h4> ⫎ I'm Shamura, a DevOps Engineer and a Python Programming Trainer.<br/>  <br/>
+<h4> ⫎ I'm Shamura, a DevOps Engineer. <br/>  <br/>
+     ⫎ I've been a Dotnet Developer and a Python Programming Trainer.<br/>  <br/>
      ⫎ I've been extremely into mathematics and competitive programming. <br/>  <br/>
      ⫎ I'm an AI Enthusiast and trying to learn deeply about the AI executions.<br/>  <br/>
      ⫎ I'm improvised to learn new technologies and adapt any environment.<br/> <br/>
