@@ -8,10 +8,10 @@
      ❐ I'm an Aurora (Northern Lights) lover, a travel freak and a sports junkie. 
 </h4>
 <h2>Recently Learnt Technologies :</h2>
-<h4> ☐ Cloud Computing & DevOps - Bangladesh Computer Council <br/> <br/>
+<h4> ☐ Deep Learning - Coursera, DeepLearning.ai  <br/> <br/>
+     ☐ Cloud Computing & DevOps - Bangladesh Computer Council <br/> <br/>
      ☐ Artificial Intelligence - Bangladesh Computer Council <br/> <br/>
      ☐ Server Administration with Cloud Management - BASIS <br/> <br/>
-     ☐ Python Programming - CodeInPlace, Stanford University  <br/> <br/>
      ☐ Advanced Machine Learning - Coursera, IBM Training <br/> <br/>
      ☐ Advanced Artificial Intelligence - edX, Havard University<br/>
 </h4> 
