@@ -33,7 +33,6 @@
 ★ <a href="https://github.com/animshamura/Codeforces-Solve-">Codeforces</a><br>
 ★ <a href="https://github.com/animshamura/Timus-Solve-">Timus</a><br>
 ★ <a href="https://github.com/animshamura/HackerRank-Solve">Hackerrank</a><br>
-★ <a href="https://github.com/animshamura/Beecrowd-Solve-">Beecrowd</a><br>
 ★ <a href="https://github.com/animshamura/Codeforces-Solve-">Codeforces</a><br>
 ★ <a href="https://github.com/animshamura/Codechef-Solve-">Codechef</a><br>
 <h4 align="left">Contests :</h4>
