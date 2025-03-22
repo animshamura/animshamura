@@ -6,7 +6,7 @@ I am Shamura Ahmad, a Machine Learning Engineer driven by an insatiable curiosit
 </br>
 With expertise in Computer Vision, Deep Learning, NLP, Bioinformatics, and Large Language Models (LLMs), I strive to bridge the gap between innovation and real-world impact. My strong foundation in DevOps, Cloud Technologies, and Python development allows me to build scalable, intelligent systems that push the limits of possibility. </br></br>
 
-Every model I train, every system I build, carries a vision—to make technology more intuitive, more human, and more meaningful. AI is not just the future; it’s the present we create today. </br>
+Every model I train, every system I build, carries a vision — to make technology more intuitive, more human, and more meaningful. AI is not just the future; it’s the present we create today. </br>
 
 Let’s build something that matters.
 </div>
