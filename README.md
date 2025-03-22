@@ -2,13 +2,13 @@
      <img src="https://github.com/radiant-fleak/animshamura/blob/main/Banner.jpg" width="1000" height="400">
 <h2> About Me :</h2>
 <h4> <div align="justify">
-I am Shamura Ahmad, a Machine Learning Engineer driven by an insatiable curiosity and a deep belief in the power of AI to reshape the world. For me, AI isn’t just about algorithms and data — it’s about creating intelligence that empowers, solves, and transforms. </br>
-</br>
-With expertise in Computer Vision, Deep Learning, NLP, Bioinformatics, and Large Language Models (LLMs), I strive to bridge the gap between innovation and real-world impact. My strong foundation in DevOps, Cloud Technologies, and Python development allows me to build scalable, intelligent systems that push the limits of possibility. </br></br>
+I am Shamura Ahmad, a Machine Learning Engineer with an insatiable passion and a strong conviction in the potential of AI to change the world. To me, AI isn't an exercise in algorithms and data — it is about building intelligence that solves, empowers, and transforms.
 
-Every model I train, every system I build, carries a vision — to make technology more intuitive, more human, and more meaningful. AI is not just the future; it’s the present we create today. </br>
+Having a background in Computer Vision, Deep Learning, NLP, Bioinformatics, and Large Language Models (LLMs), I seek to bridge the gap between innovation and practical impact. Having firm experience in DevOps, Cloud Technologies, and Python development, I can design scalable, intelligent systems that transcend the boundaries of possibility.
 
-Let’s build something that matters.
+With each model I train, each system I build, comes a vision — to make technology more human, more intuitive, and more meaningful. AI is not the future; it's the today we build now.
+
+Let's build something that matters.
 </div>
 </h4>
 <h2>Recently Learnt Technologies :</h2>
