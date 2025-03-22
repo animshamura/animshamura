@@ -1,11 +1,13 @@
 <div style="color:white;">
      <img src="https://github.com/radiant-fleak/animshamura/blob/main/Banner.jpg" width="1000" height="400">
 <h2> About Me :</h2>
-<h4> ❐ I'm Shamura, an ML Engineer with DevOps and Cloud expertise. <br/>  <br/>
-     ❐ I've been extremely into mathematics and competitive programming. <br/>  <br/>
-     ❐ I'm an AI Enthusiast and trying to learn deeply about the AI executions.<br/>  <br/>
-     ❐ I'm improvised to learn new technologies and adapt any environment.<br/> <br/>
+<h4> I am Shamura Ahmad, a Machine Learning Engineer driven by an insatiable curiosity and a deep belief in the power of AI to reshape the world. For me, AI isn’t just about algorithms and data—it’s about creating intelligence that empowers, solves, and transforms.
 
+With expertise in Computer Vision, Deep Learning, NLP, Bioinformatics, and Large Language Models (LLMs), I strive to bridge the gap between innovation and real-world impact. My strong foundation in DevOps, Cloud Technologies, and Python development allows me to build scalable, intelligent systems that push the limits of possibility.
+
+Every model I train, every system I build, carries a vision—to make technology more intuitive, more human, and more meaningful. AI is not just the future; it’s the present we create today.
+
+Let’s build something that matters.
 </h4>
 <h2>Recently Learnt Technologies :</h2>
 <h4> ☐ Deep Learning - Coursera, DeepLearning.AI  <br/> <br/>
