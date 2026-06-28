@@ -16,7 +16,7 @@
 
 ## Professional Summary
 
-AI Engineer with hands-on experience spanning Artificial Intelligence, Machine Learning, Deep Learning, and MLOps[cite: 1]. Proven track record designing LLM/RAG applications, building automated CI/CD and container orchestration pipelines, and optimizing deep learning models for production environments[cite: 1]. Focused on structural efficiency, model evaluation, and deploying microservices that reduce operational latency and infrastructure manual steps[cite: 1].
+AI Engineer with hands-on experience spanning Artificial Intelligence, Machine Learning, Deep Learning, and MLOps. Proven track record designing LLM/RAG applications, building automated CI/CD and container orchestration pipelines, and optimizing deep learning models for production environments. Focused on structural efficiency, model evaluation, and deploying microservices that reduce operational latency and infrastructure manual steps.
 
 ---
 
@@ -24,18 +24,18 @@ AI Engineer with hands-on experience spanning Artificial Intelligence, Machine L
 
 | Category | Technologies |
 | :--- | :--- |
-| **AI, ML & Deep Learning** | LLMs, Deep Learning, Neural Networks, CNN, Computer Vision, NLP, LangChain[cite: 1] |
-| **Frameworks & Libraries** | TensorFlow, PyTorch, Keras, OpenCV, Scikit-learn, FastAPI, Django, REST API[cite: 1] |
-| **Programming Languages** | Python, Java, C/C++, Go, SQL, JavaScript[cite: 1] |
-| **DevOps & Infrastructure** | Docker, Kubernetes, Jenkins, Ansible, Terraform, GitHub Actions, Prometheus, Grafana, Linux[cite: 1] |
-| **Databases & Tools** | PostgreSQL, Redis, Postman, Git, Vector Databases[cite: 1] |
+| **AI, ML & Deep Learning** | LLMs, Deep Learning, Neural Networks, CNN, Computer Vision, NLP, LangChain |
+| **Frameworks & Libraries** | TensorFlow, PyTorch, Keras, OpenCV, Scikit-learn, FastAPI, Django, REST API |
+| **Programming Languages** | Python, Java, C/C++, Go, SQL, JavaScript |
+| **DevOps & Infrastructure** | Docker, Kubernetes, Jenkins, Ansible, Terraform, GitHub Actions, Prometheus, Grafana, Linux |
+| **Databases & Tools** | PostgreSQL, Redis, Postman, Git, Vector Database|
 
 ---
 
 ## Active Research Interests
 
-*   **Privacy-Preserving Federated Learning for Medical Image Diagnosis:** Researching distributed training models and aggregation paradigms using PyTorch and TensorFlow Federated[cite: 1].
-*   **Retrieval-Augmented Generation (RAG) Based Intelligent AI Assistant for Healthcare Applications:** Optimizing LLM accuracy using context-aware vector databases and customized embedding frameworks[cite: 1].
+*   **Privacy-Preserving Federated Learning for Medical Image Diagnosis:** Researching distributed training models and aggregation paradigms using PyTorch and TensorFlow Federated.
+*   **Retrieval-Augmented Generation (RAG) Based Intelligent AI Assistant for Healthcare Applications:** Optimizing LLM accuracy using context-aware vector databases and customized embedding frameworks.
 
 ---
 
@@ -52,6 +52,6 @@ AI Engineer with hands-on experience spanning Artificial Intelligence, Machine L
 
 Open to enterprise inquiries regarding intelligent system design, MLOps orchestration, and production AI deployments.
 
-- **Email:** shamuraanim7@gmail.com[cite: 1]
-- **LinkedIn:** [animshamura](https://linkedin.com/in/animshamura)[cite: 1]
-- **Profiles:** [Codeforces](https://codeforces.com/profile/Anim_01) | [LeetCode](https://leetcode.com/u/animshamura/)[cite: 1]
+- **Email:** shamuraanim7@gmail.com
+- **LinkedIn:** [animshamura](https://linkedin.com/in/animshamura)
+- **Profiles:** [Codeforces](https://codeforces.com/profile/Anim_01) | [LeetCode](https://leetcode.com/u/animshamura/)
