@@ -10,7 +10,7 @@
 
 ---
 
-[Email](mailto:shamuraanim7@gmail.com) | [GitHub Handle: animshamura](https://github.com/animshamura) | [LinkedIn: animshamura](https://linkedin.com/in/animshamura)
+[Email](mailto:shamuraanim7@gmail.com) | [Youtube: animshamura](https://www.youtube.com/@animshamura) | [LinkedIn: animshamura](https://linkedin.com/in/animshamura)
 
 </div>
 
