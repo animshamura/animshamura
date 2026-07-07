@@ -32,9 +32,11 @@ AI Engineer with hands-on experience spanning Artificial Intelligence, Machine L
 
 ## Active Research Interests
 
+<div align="justify">
 *   **Privacy-Preserving Federated Learning for Medical Image Diagnosis:** Researching distributed training models and aggregation paradigms using PyTorch and TensorFlow Federated.
 *   **Retrieval-Augmented Generation (RAG) Based Intelligent AI Assistant for Healthcare Applications:** Optimizing LLM accuracy using context-aware vector databases and customized embedding frameworks.
 
+</div>
 
 ## GitHub Performance Metrics
 
