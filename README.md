@@ -9,9 +9,6 @@
 *Developing scalable machine learning systems, robust MLOps pipelines, and intelligent architectures.*
 
 ---
-
-[Email](mailto:shamuraanim7@gmail.com) | [Youtube](https://www.youtube.com/@animshamura) | [LinkedIn](https://linkedin.com/in/animshamura)
-
 </div>
 
 ## Professional Summary
@@ -52,6 +49,7 @@ AI Engineer with hands-on experience spanning Artificial Intelligence, Machine L
 
 Open to enterprise inquiries regarding intelligent system design, MLOps orchestration, and production AI deployments.
 
-- **Email:** shamuraanim7@gmail.com
+- **Email:** [shamuraanim7@gmail.com](mailto:shamuraanim7@gmail.com)
 - **LinkedIn:** [animshamura](https://linkedin.com/in/animshamura)
+- **Youtube:** [animshamura](https://www.youtube.com/@animshamura
 - **Profiles:** [Codeforces](https://codeforces.com/profile/Anim_01) | [LeetCode](https://leetcode.com/u/animshamura/)
