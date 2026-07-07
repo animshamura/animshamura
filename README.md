@@ -8,7 +8,9 @@
 
 *Developing scalable machine learning systems, robust MLOps pipelines, and intelligent architectures.*
 </div>
+
 ---
+
 ## Professional Summary
 <div align="justify">
      
