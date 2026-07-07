@@ -20,6 +20,8 @@ AI Engineer with hands-on experience spanning Artificial Intelligence, Machine L
 
 ## Technical Expertise
 
+<div align="center">
+
 | Category | Technologies |
 | :--- | :--- |
 | **AI, ML & Deep Learning** | LLMs, Deep Learning, Neural Networks, CNN, Computer Vision, NLP, LangChain |
@@ -28,7 +30,7 @@ AI Engineer with hands-on experience spanning Artificial Intelligence, Machine L
 | **DevOps & Infrastructure** | Docker, Kubernetes, Jenkins, Ansible, Terraform, GitHub Actions, Prometheus, Grafana, Linux |
 | **Databases & Tools** | PostgreSQL, Redis, Postman, Git, Vector Database|
 
-
+</div>
 
 ## Active Research Interests
 
