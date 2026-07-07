@@ -12,9 +12,11 @@
 </div>
 
 ## Professional Summary
-
+<div align="justify">
+     
 AI Engineer with hands-on experience spanning Artificial Intelligence, Machine Learning, Deep Learning, and MLOps. Proven track record designing LLM/RAG applications, building automated CI/CD and container orchestration pipelines, and optimizing deep learning models for production environments. Focused on structural efficiency, model evaluation, and deploying microservices that reduce operational latency and infrastructure manual steps.
-
+     
+</div>
 ---
 
 ## Technical Expertise
@@ -51,5 +53,5 @@ Open to enterprise inquiries regarding intelligent system design, MLOps orchestr
 
 - **Email:** [shamuraanim7@gmail.com](mailto:shamuraanim7@gmail.com)
 - **LinkedIn:** [animshamura](https://linkedin.com/in/animshamura)
-- **Youtube:** [animshamura](https://www.youtube.com/@animshamura
+- **Youtube:** [animshamura](https://www.youtube.com/@animshamura)
 - **Profiles:** [Codeforces](https://codeforces.com/profile/Anim_01) | [LeetCode](https://leetcode.com/u/animshamura/)
