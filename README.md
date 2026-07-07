@@ -8,7 +8,6 @@
 
 *Developing scalable machine learning systems, robust MLOps pipelines, and intelligent architectures.*
 
----
 </div>
 
 ## Professional Summary
@@ -17,7 +16,6 @@
 AI Engineer with hands-on experience spanning Artificial Intelligence, Machine Learning, Deep Learning, and MLOps. Proven track record designing LLM/RAG applications, building automated CI/CD and container orchestration pipelines, and optimizing deep learning models for production environments. Focused on structural efficiency, model evaluation, and deploying microservices that reduce operational latency and infrastructure manual steps.
      
 </div>
----
 
 ## Technical Expertise
 
@@ -29,14 +27,13 @@ AI Engineer with hands-on experience spanning Artificial Intelligence, Machine L
 | **DevOps & Infrastructure** | Docker, Kubernetes, Jenkins, Ansible, Terraform, GitHub Actions, Prometheus, Grafana, Linux |
 | **Databases & Tools** | PostgreSQL, Redis, Postman, Git, Vector Database|
 
----
+
 
 ## Active Research Interests
 
 *   **Privacy-Preserving Federated Learning for Medical Image Diagnosis:** Researching distributed training models and aggregation paradigms using PyTorch and TensorFlow Federated.
 *   **Retrieval-Augmented Generation (RAG) Based Intelligent AI Assistant for Healthcare Applications:** Optimizing LLM accuracy using context-aware vector databases and customized embedding frameworks.
 
----
 
 ## GitHub Performance Metrics
 
@@ -45,7 +42,6 @@ AI Engineer with hands-on experience spanning Artificial Intelligence, Machine L
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=animshamura&theme=flat" alt="GitHub Streak" width="48%" />
 </p>
 
----
 
 ## Contact & Professional Networks
 
