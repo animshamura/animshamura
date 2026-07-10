@@ -44,8 +44,16 @@ AI Engineer with hands-on experience spanning Artificial Intelligence, Machine L
 ## GitHub Performance Metrics
 
 <p align="center">
-  <img src="[https://github-readme-stats.vercel.app/api?username=animshamura&show_icons=true&theme=flat](https://github-readme-stats-sigma-five.vercel.app/api?username=animshamura&show_icons=true&theme=github_dark)" alt="GitHub Stats" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=animshamura&theme=flat" alt="GitHub Streak" width="48%" />
+  <img
+    src="https://github-readme-stats-sigma-five.vercel.app/api?username=animshamura&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true"
+    alt="GitHub Stats"
+    width="48%"
+  />
+  <img
+    src="https://streak-stats.demolab.com?user=animshamura&theme=github-dark"
+    alt="GitHub Streak"
+    width="48%"
+  />
 </p>
 
 
