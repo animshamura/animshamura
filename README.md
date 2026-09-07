@@ -6,7 +6,7 @@
 # Shamura Ahmad
 ### Software Engineer | AI/ML, DevOps & Cloud Enthusiast
 
-*Developing scalable machine learning systems, robust MLOps pipelines, and intelligent architectures.*
+*Building practical software, exploring AI/ML, and creating scalable cloud & DevOps solutions*
 </div>
 
 ---
@@ -14,9 +14,7 @@
 ## Professional Summary
 <div align="justify">
      
-I’m a Software Engineer who enjoys learning how things work and finding better ways to build them. I’m interested in AI/ML, Cloud, and DevOps, and I enjoy turning ideas into simple and useful solutions.
-
-     
+Software Engineer with hands-on experience in AI/ML, cloud infrastructure, and DevOps. Skilled in building scalable applications, automating deployments, and developing reliable systems using Python, AWS, Docker, Kubernetes, Terraform, and CI/CD tools. Passionate about solving real-world problems, learning new technologies, and turning ideas into practical solutions.
 </div>
 
 ## Technical Expertise
@@ -33,7 +31,7 @@ I’m a Software Engineer who enjoys learning how things work and finding better
 
 </div>
 
-## Active Research Interests
+## Ongoing Research
 
 <div align="justify">
      
