@@ -14,7 +14,8 @@
 ## Professional Summary
 <div align="justify">
      
-AI Engineer with hands-on experience spanning Artificial Intelligence, Machine Learning, Deep Learning, and MLOps. Proven track record designing LLM/RAG applications, building automated CI/CD and container orchestration pipelines, and optimizing deep learning models for production environments. Focused on structural efficiency, model evaluation, and deploying microservices that reduce operational latency and infrastructure manual steps.
+I’m a Software Engineer who enjoys learning how things work and finding better ways to build them. I’m interested in AI/ML, Cloud, and DevOps, and I enjoy turning ideas into simple and useful solutions.
+
      
 </div>
 
