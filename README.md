@@ -4,7 +4,7 @@
 <div align="center">
 
 # Shamura Ahmad
-### AI Engineer | MLOps & Software Engineer | DevSecOps Enthusiast
+### Software Engineer | AI/ML, DevOps & Cloud Enthusiast
 
 *Developing scalable machine learning systems, robust MLOps pipelines, and intelligent architectures.*
 </div>
